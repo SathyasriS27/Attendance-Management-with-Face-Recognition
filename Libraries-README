@@ -1,0 +1,11 @@
+The Libraries required are :
+1. Open Cv 
+2. Numpy 
+3. Pillows 
+4. Os
+5. DateTiem 
+6. Pandas
+7. Dlib
+8. Urllib.request 
+
+
