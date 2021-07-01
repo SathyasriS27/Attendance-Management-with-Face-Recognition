@@ -14,11 +14,13 @@ The Software Tools used in this project are:
 5. Pyre base
 
 The order of the codes and their headings:
-1. Face Detection 
-2. Data Gatherinng 
-3. Face Training
-4. Face Recognition for a single person using a single camera 
-5. Face Recognition for multiple people using a single camera 
-6. Attendance Management Program 
-7. Face Recognition using two or more cameras 
-8. Attendance Mangement Program for Multiple Cameras 
+1. Camera Check
+2. Face Detection 
+3. Data Gatherinng 
+4. Face Training
+5. Face Recognition for a single person using a single camera - Recognition.py
+6. Face Recognition for multiple people using a single camera - multipleRecognition.py
+7. Attendance Management Program - PresentorAbsent.py
+8. Attendance Mangement Program for Multiple Cameras - PresentorAbsentformultiple.py
+9. Face Recognition using Multiple cameras - Multiplecameras.py
+ 
